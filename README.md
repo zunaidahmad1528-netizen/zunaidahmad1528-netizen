@@ -6,4 +6,4 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 📌 Projects: AI Resume Analyzer · DataChat AI · Air Quality EDA  
-🔗 [LinkedIn](#) · [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohd-zunaid-23069a297/).
