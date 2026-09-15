@@ -40,7 +40,7 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-zunaid-23069a297/)
-
+[![Naukri](https://img.shields.io/badge/-Naukri-FF7555?style=flat-square)](https://www.naukri.com/mnjuser/profile)
 ---
 
 <p align="center"><i>Open to Data Analyst opportunities and collaborations.</i></p>
