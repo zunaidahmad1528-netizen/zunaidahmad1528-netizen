@@ -65,19 +65,15 @@ I am **Mohd Zunaid**, a Computer Science Engineering student and aspiring **Data
 
 **Data Visualization and BI**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
-</p>
-
 ![Power BI](https://img.shields.io/badge/Power_BI-4338CA?style=flat-square&logo=powerbi&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Dashboards-6D28D9?style=flat-square)
 ![Reporting](https://img.shields.io/badge/Reporting-4F46E5?style=flat-square)
 
-**Databases, Tooling and Automation**
+**Tooling and Automation**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,flask&theme=dark" />
 </p>
 
 ---
@@ -258,10 +254,10 @@ Designing, building, and documenting data analytics projects to develop job-read
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
 
 </div>
 
@@ -277,26 +273,6 @@ Designing, building, and documenting data analytics projects to develop job-read
 <br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" />
 
 </div>
 
