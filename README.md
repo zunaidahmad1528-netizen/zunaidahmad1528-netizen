@@ -16,12 +16,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=7C3AED&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=6D28D9&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=4F46E5&logo=github)
+
 
 </div>
 
@@ -225,7 +223,7 @@ Designing, building, and documenting data analytics projects to develop job-read
 
 | Recognition | Details |
 |:-----------:|:-------:|
-| HackerRank SQL | Earned 1 star and completed phase 1 |
+| HackerRank SQL | Completed SQL problem-solving practice and earned a skill badge |
 | Microsoft Learn | Earned multiple badges across Power BI and Microsoft 365 Copilot learning paths |
 | Portfolio Projects | Published multiple end-to-end analytics and Python projects on GitHub |
 | Learning in Public | Shares Excel and SQL lessons regularly on LinkedIn |
@@ -238,15 +236,19 @@ Designing, building, and documenting data analytics projects to develop job-read
 
 **Microsoft Learn**
 
-![Power BI Dashboards](https://img.shields.io/badge/Create_Dashboards_in_Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
-![Secure Data Access](https://img.shields.io/badge/Secure_Data_Access_in_Power_BI-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)
-![Content Distribution](https://img.shields.io/badge/Choose_a_Content_Distribution_Method-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
-![Copilot Agents](https://img.shields.io/badge/Explore_Prebuilt_Copilot_Agents-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white)
-![M365 Copilot](https://img.shields.io/badge/M365_Copilot_Productivity-4338CA?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Power BI Dashboards](https://img.shields.io/badge/Create_Dashboards_in_Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR_MICROSOFT_LEARN_USERNAME/)
+[![Secure Data Access](https://img.shields.io/badge/Secure_Data_Access_in_Power_BI-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR_MICROSOFT_LEARN_USERNAME/)
+[![Content Distribution](https://img.shields.io/badge/Choose_a_Content_Distribution_Method-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR_MICROSOFT_LEARN_USERNAME/)
+[![Copilot Agents](https://img.shields.io/badge/Explore_Prebuilt_Copilot_Agents-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR_MICROSOFT_LEARN_USERNAME/)
+[![M365 Copilot](https://img.shields.io/badge/M365_Copilot_Productivity-4338CA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/YOUR_MICROSOFT_LEARN_USERNAME/)
 
 **HackerRank**
 
-![HackerRank SQL](https://img.shields.io/badge/SQL_1_Star-312E81?style=for-the-badge&logo=hackerrank&logoColor=white)
+[![HackerRank SQL](https://img.shields.io/badge/SQL_Skills-Verified_Profile-312E81?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
+
+**Full Credential List**
+
+[![LinkedIn Certifications](https://img.shields.io/badge/View_All_Certifications_on_LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/details/certifications/)
 
 ---
 
@@ -267,12 +269,18 @@ Designing, building, and documenting data analytics projects to develop job-read
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=8B5CF6" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="170" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=8B5CF6" alt="GitHub Streak" />
+</a>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages" />
+</a>
 
 </div>
 
