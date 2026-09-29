@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=MOHD%20ZUNAID&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=20&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel;Data+Cleaning+%C2%B7+EDA+%C2%B7+Dashboards+%C2%B7+Insights;Growing+Toward+Data+Engineering+%26+Cloud+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel;Data+Cleaning+%C2%B7+EDA+%C2%B7+Dashboards+%C2%B7+Reporting;Data+Storytelling+with+Clarity+and+Accuracy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,14 +29,13 @@
 
 ## About
 
-I am **Mohd Zunaid**, a Computer Science Engineering student and aspiring **Data Analyst**. I turn raw, messy data into clear, decision-ready insights through structured cleaning, exploratory analysis, visualization, and reporting.
+I am **Mohd Zunaid**, a Computer Science Engineering student and aspiring **Data Analyst**. I turn raw, messy data into clear, decision-ready business insights through disciplined cleaning, exploratory analysis, visualization, and reporting.
 
-- **Data Analysis:** Exploratory data analysis, data cleaning, and statistical summaries using Python, Pandas, NumPy, and SQL.
-- **Business Intelligence:** Dashboards and reports built with Power BI and Excel to communicate findings to non-technical stakeholders.
-- **Engineering Foundation:** Strong computer science fundamentals, with experience building Flask-based data tools and Python automation scripts.
-- **AI-Assisted Analytics:** Practical experience integrating LLM APIs into data-focused applications.
-- **Analytical Mindset:** I start from the business question, validate the data, and deliver insights that are accurate, reproducible, and actionable.
-- **Career Direction:** Data Analyst first, then Data Engineering, growing into Cloud and Analytics Engineering.
+- **Data Analysis and Business Insights:** I start from the business question, validate the data, and deliver findings that are accurate, reproducible, and actionable.
+- **Data Cleaning, EDA and Statistical Thinking:** Profiling datasets, handling missing values and outliers, and summarizing distributions, correlations, and trends with Python, Pandas, and NumPy.
+- **Dashboards, Reporting and Visualization:** Building reports and dashboards with Power BI, Excel, and Matplotlib that communicate results to non-technical stakeholders.
+- **Engineering Foundation:** Computer science fundamentals, structured Python, and experience building Flask-based data tools and automation scripts.
+- **Analytical Mindset:** Curious, detail-oriented, and focused on measurable impact, with a long-term path from Data Analyst to Data Engineering and Cloud and Analytics Engineering.
 
 **Open To**
 
@@ -50,30 +49,35 @@ I am **Mohd Zunaid**, a Computer Science Engineering student and aspiring **Data
 
 ## Tech Stack
 
-**Languages**
+**Programming and Query Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" />
 </p>
 
-**Analytics and Visualization**
+**Data Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-312E81?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-4338CA?style=flat-square&logo=powerbi&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-7C3AED?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-5B21B6?style=flat-square)
 
-**Backend and Databases**
+**Data Visualization and BI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
 </p>
 
-**Cloud, DevOps and Tooling**
+![Power BI](https://img.shields.io/badge/Power_BI-4338CA?style=flat-square&logo=powerbi&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-6D28D9?style=flat-square)
+![Reporting](https://img.shields.io/badge/Reporting-4F46E5?style=flat-square)
+
+**Databases, Tooling and Automation**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,flask&theme=dark" />
 </p>
 
 ---
@@ -82,20 +86,20 @@ I am **Mohd Zunaid**, a Computer Science Engineering student and aspiring **Data
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| Exploratory Data Analysis | ![Level](https://img.shields.io/badge/Advanced_Beginner-7C3AED?style=flat-square) | Data profiling, distributions, correlations, and trend analysis with Pandas, NumPy, and Matplotlib |
+| Exploratory Data Analysis | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Data profiling, distributions, correlations, and trend analysis with Pandas, NumPy, and Matplotlib |
 | Data Cleaning and Preparation | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Handling missing values, duplicates, outliers, and type inconsistencies in real-world datasets |
 | SQL and Querying | ![Level](https://img.shields.io/badge/Learning-4F46E5?style=flat-square) | Core querying fundamentals, practiced on SQLBolt and HackerRank |
 | Dashboards and Reporting | ![Level](https://img.shields.io/badge/Learning-4F46E5?style=flat-square) | Power BI dashboards and Excel reporting, including conditional formatting, SUMIF, and COUNTIF |
 | Data Visualization | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Clear, insight-driven charts using Matplotlib and Power BI |
-| LLM-Integrated Data Tools | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Flask applications integrated with the Claude API for resume analysis and data conversations |
-| Automation | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Python scripting against the GitHub REST API for repository and profile management |
+| LLM-Integrated Data Tools | ![Level](https://img.shields.io/badge/Beginner-7C3AED?style=flat-square) | Flask applications integrated with the Claude API for resume analysis and data conversations |
+| Automation | ![Level](https://img.shields.io/badge/Beginner-7C3AED?style=flat-square) | Python scripting against the GitHub REST API for repository and profile management |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>Air Quality India EDA</b> — Exploratory analysis of air pollution data</summary>
+<summary><b>Air Quality India EDA</b> — Exploratory analysis of air pollution data across India</summary>
 
 <br/>
 
@@ -115,7 +119,7 @@ The analysis covers data cleaning, statistical summaries, and visualizations tha
 </details>
 
 <details>
-<summary><b>Retail Sales Analysis</b> — Sales performance insights</summary>
+<summary><b>Retail Sales Analysis</b> — Sales trends and performance insights</summary>
 
 <br/>
 
@@ -135,7 +139,7 @@ The project demonstrates a standard analyst workflow: load, clean, aggregate, vi
 </details>
 
 <details>
-<summary><b>DataChat AI</b> — Conversational data analysis platform</summary>
+<summary><b>DataChat AI</b> — MVC-structured data cleaning and comparison platform</summary>
 
 <br/>
 
@@ -143,7 +147,7 @@ A Flask web application that lets users upload datasets, clean them, compare mul
 
 | Category | Details |
 |:---------|:--------|
-| **Stack** | Python, Flask, Pandas, HTML, CSS, JavaScript |
+| **Stack** | Python, Flask, Pandas |
 | **Scale** | Multi-file upload and comparison workflows |
 | **Performance** | Modular MVC structure that separates data logic from presentation |
 | **Security** | User authentication and session-based access control |
@@ -155,7 +159,7 @@ Built with an MVC architecture, the project covers user authentication, automate
 </details>
 
 <details>
-<summary><b>AI-Powered Resume Analyzer</b> — LLM-driven resume evaluation</summary>
+<summary><b>AI-Powered Resume Analyzer</b> — LLM-based resume feedback</summary>
 
 <br/>
 
@@ -175,7 +179,7 @@ The project combines a lightweight web backend with LLM analysis to evaluate res
 </details>
 
 <details>
-<summary><b>GitHub Automation Toolkit</b> — Repository and profile automation</summary>
+<summary><b>GitHub Automation Toolkit</b> — Repository and profile automation scripts</summary>
 
 <br/>
 
@@ -298,28 +302,19 @@ Designing, building, and documenting data analytics projects to develop job-read
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
 Learning:
   - SQL (joins, aggregations, window functions)
-  - Advanced Excel and Power BI dashboards
-  - Data Structures and Algorithms
+  - Advanced Excel
+  - Power BI dashboards
+  - Data Structures
 
 Building:
   - Data analytics portfolio projects
   - Flask-based data tools with LLM integration
-  - GitHub and LinkedIn automation utilities
+  - GitHub automation utilities
 
 Exploring:
   - Data Engineering fundamentals
