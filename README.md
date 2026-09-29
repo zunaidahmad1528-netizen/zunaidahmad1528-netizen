@@ -1,46 +1,361 @@
-<h1 align="center">Hi, I'm Mohd Zunaid 👋</h1>
-<h3 align="center">Aspiring Data Analyst | BTech CSE</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Zunaid&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=20&descAlignY=58" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Turning+Raw+Data+into+Decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel;Building+Toward+Data+Engineering+%26+Cloud+Analytics" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![BTech CSE](https://img.shields.io/badge/BTech-Computer_Science_Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2024--2028-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Uttar_Pradesh-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=7C3AED&style=flat-square)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=6D28D9&logo=github)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=4F46E5&logo=github)
+
+</div>
+
+---
+
+## About
+
+I am a Computer Science Engineering student and an aspiring **Data Analyst** with a strong engineering foundation. I build end-to-end analytics work: cleaning and transforming raw data, running exploratory analysis, and presenting findings as clear, decision-ready insights.
+
+- **Data Analytics:** Exploratory data analysis, data cleaning, visualization, and reporting with Python, SQL, Excel, and Power BI.
+- **Software Engineering:** Solid fundamentals in Python and structured application design, including MVC-based Flask applications with authentication and data pipelines.
+- **AI-Assisted Products:** Experience integrating LLM APIs into practical, user-facing analytics tools.
+- **Full Stack Development:** Working knowledge of web development for building usable data products.
+- **Product Engineering Mindset:** I focus on business context, measurable impact, and maintainable, well-documented work.
+- **Career Direction:** Data Analyst first, then Data Engineering, growing into Cloud and Analytics Engineering.
+
+**Open To**
+
+| Opportunity | Focus |
+|:------------|:------|
+| Data Analyst Roles | Entry-level and junior positions |
+| Internships | Data analytics, business intelligence, reporting |
+| Collaboration | Open-source and portfolio-driven analytics projects |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" />
 </p>
 
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+**Backend and Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,mysql&theme=dark" />
+</p>
+
+**Analytics, Cloud, DevOps and Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode&theme=dark" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-312E81?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-4338CA?style=flat-square&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=mysql&logoColor=white)
+
 ---
 
-### 🚀 About Me
-- 🎓 BTech Computer Science Engineering student (2024–2028)
-- 📊 Building toward a career as a **Data Analyst → Data Engineer → Cloud & Analytics Engineer**
-- 🛠️ Currently sharpening skills in Python, SQL, and data visualization through hands-on projects
-- 🌱 Actively growing a portfolio of real-world data + automation projects
+## AI / ML and Analytics Expertise
+
+| Domain | Proficiency | Details |
+|:-------|:-----------:|:--------|
+| Exploratory Data Analysis | ![Level](https://img.shields.io/badge/Advanced_Beginner-7C3AED?style=flat-square) | Data profiling, distributions, correlations, and trend analysis with Pandas, NumPy, and Matplotlib |
+| Data Cleaning and Preparation | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Handling missing values, duplicates, outliers, and type inconsistencies in real-world datasets |
+| SQL and Querying | ![Level](https://img.shields.io/badge/Learning-4F46E5?style=flat-square) | Core querying fundamentals, practiced on SQLBolt and HackerRank |
+| Dashboards and Reporting | ![Level](https://img.shields.io/badge/Learning-4F46E5?style=flat-square) | Power BI dashboards and Excel reporting, including conditional formatting and SUMIF/COUNTIF |
+| LLM-Integrated Applications | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Flask applications integrated with the Claude API for resume analysis and data conversations |
+| Automation | ![Level](https://img.shields.io/badge/Intermediate-6D28D9?style=flat-square) | Python scripting against the GitHub REST API for repository and profile management |
 
 ---
 
-### 📌 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[AI Resume Analyzer]()** | Flask app that uses the Claude API to analyze and score resumes | Flask, Claude API |
-| **[DataChat AI]()** | MVC-structured Flask app with auth, data cleaning, multi-file comparison & export | Flask, Pandas |
-| **[Air Quality India — EDA]()** | End-to-end exploratory data analysis on air quality data | Python, Pandas, Matplotlib |
-| **[Retail Sales Analysis]()** | Sales trend & performance analysis project | Python, Pandas, NumPy, Matplotlib |
+<details>
+<summary><b>DataChat AI</b> — Conversational data analysis platform</summary>
 
-*(Swap in your repo links for each project title)*
+<br/>
+
+A Flask web application that lets users upload datasets, clean them, compare multiple files, and export results through a guided interface.
+
+| Category | Details |
+|:---------|:--------|
+| **Stack** | Python, Flask, Pandas, HTML, CSS, JavaScript |
+| **Scale** | Multi-file upload and comparison workflows |
+| **Performance** | Modular MVC structure that separates data logic from presentation |
+| **Security** | User authentication and session-based access control |
+| **Impact** | Reduces manual data cleaning and comparison effort for non-technical users |
+| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_DATACHAT_REPO) |
+
+Built with an MVC architecture, the project covers user authentication, automated data cleaning, multi-file comparison, and export features, turning routine spreadsheet work into a repeatable workflow.
+
+</details>
+
+<details>
+<summary><b>AI-Powered Resume Analyzer</b> — LLM-driven resume evaluation</summary>
+
+<br/>
+
+A Flask application that analyzes resumes using the Claude API and returns structured, actionable feedback.
+
+| Category | Details |
+|:---------|:--------|
+| **Stack** | Python, Flask, Claude API |
+| **Scale** | Handles document-based input through a web interface |
+| **Performance** | Prompt-driven analysis returning structured feedback |
+| **Security** | API credentials managed through environment variables |
+| **Impact** | Gives job seekers fast, consistent resume feedback |
+| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RESUME_ANALYZER_REPO) |
+
+The project combines a lightweight web backend with LLM analysis to evaluate resume content and surface clear improvement areas.
+
+</details>
+
+<details>
+<summary><b>Air Quality India EDA</b> — Exploratory analysis of air pollution data</summary>
+
+<br/>
+
+A complete exploratory data analysis project examining air quality patterns across India.
+
+| Category | Details |
+|:---------|:--------|
+| **Stack** | Python, Pandas, NumPy, Matplotlib |
+| **Scale** | Multi-city, time-series air quality data |
+| **Performance** | Reproducible notebook workflow from raw data to visual insights |
+| **Security** | Uses publicly available data only |
+| **Impact** | Surfaces pollution trends and comparisons that support data-driven awareness |
+| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/air-quality-india-eda) |
+
+The analysis covers data cleaning, statistical summaries, and visualizations that highlight pollutant patterns, regional differences, and trends over time.
+
+</details>
+
+<details>
+<summary><b>Retail Sales Analysis</b> — Sales performance insights</summary>
+
+<br/>
+
+A Python-based analysis of retail sales data to identify performance drivers and trends.
+
+| Category | Details |
+|:---------|:--------|
+| **Stack** | Python, Pandas, NumPy, Matplotlib |
+| **Scale** | Transaction-level retail sales data |
+| **Performance** | Vectorized Pandas operations for aggregation and grouping |
+| **Security** | No sensitive personal data used |
+| **Impact** | Translates sales data into insights on products, categories, and trends |
+| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RETAIL_SALES_REPO) |
+
+The project demonstrates a standard analyst workflow: load, clean, aggregate, visualize, and communicate business findings.
+
+</details>
+
+<details>
+<summary><b>GitHub Automation Toolkit</b> — Repository and profile automation</summary>
+
+<br/>
+
+A Python toolkit of five scripts built on the official GitHub REST API to manage repositories and profile content.
+
+| Category | Details |
+|:---------|:--------|
+| **Stack** | Python, GitHub REST API |
+| **Scale** | Five purpose-built automation scripts |
+| **Performance** | Replaces repetitive manual repository setup with scripted workflows |
+| **Security** | Token-based authentication through the official API, ToS-compliant |
+| **Impact** | Speeds up repository creation, metadata updates, and README improvements |
+| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_AUTOMATION_REPO) |
+
+The scripts create repositories, update metadata, enhance the profile README, and improve existing repository READMEs.
+
+</details>
 
 ---
 
-### 🧰 Tech Stack
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Flask` · `Git & GitHub`
+## Experience
+
+### Independent Data Analytics Projects
+**Self-Directed Portfolio Development** &nbsp;|&nbsp; 2024 – Present
+
+Designing, building, and documenting data analytics and Python projects to develop job-ready skills in the data field, and publishing them publicly on GitHub and LinkedIn.
+
+**Scope of Work**
+
+- Built exploratory data analysis projects using Python, Pandas, NumPy, and Matplotlib.
+- Developed Flask applications with authentication, data cleaning, and LLM integration.
+- Automated GitHub repository and profile management using the GitHub REST API.
+- Documented projects with professional READMEs and shared learnings publicly on LinkedIn.
+
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-4F46E5?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-5B21B6?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-4338CA?style=flat-square)
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-zunaid-23069a297/)
-[![Naukri](https://img.shields.io/badge/-Naukri-FF7555?style=flat-square)](https://www.naukri.com/mnjuser/profile)
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:-----------:|:-------:|
+| HackerRank SQL | Earned 1 star and completed phase 1 |
+| Microsoft Learn | Earned multiple badges across Power BI and Microsoft 365 Copilot learning paths |
+| Portfolio Projects | Published multiple end-to-end analytics and Python projects on GitHub |
+| Learning in Public | Shares Excel and SQL lessons regularly on LinkedIn |
+
+</div>
+
 ---
 
-<p align="center"><i>Open to Data Analyst opportunities and collaborations.</i></p>
+## Certifications
+
+**Microsoft Learn**
+
+![Power BI Dashboards](https://img.shields.io/badge/Create_Dashboards_in_Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+![Secure Data Access](https://img.shields.io/badge/Secure_Data_Access_in_Power_BI-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white)
+![Content Distribution](https://img.shields.io/badge/Choose_a_Content_Distribution_Method-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white)
+![Copilot Agents](https://img.shields.io/badge/Explore_Prebuilt_Copilot_Agents-5B21B6?style=for-the-badge&logo=microsoft&logoColor=white)
+![M365 Copilot](https://img.shields.io/badge/M365_Copilot_Productivity-4338CA?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**HackerRank**
+
+![HackerRank SQL](https://img.shields.io/badge/SQL_1_Star-312E81?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+**AWS**
+
+![AWS](https://img.shields.io/badge/AWS-In_Progress-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A78BFA&sideNums=A78BFA&dates=8B5CF6" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - SQL (joins, aggregations, window functions)
+  - Advanced Excel and Power BI dashboards
+  - Data Structures and Algorithms
+
+Building:
+  - Data analytics portfolio projects
+  - Flask-based data tools with LLM integration
+  - GitHub and LinkedIn automation utilities
+
+Exploring:
+  - Data Engineering fundamentals
+  - Cloud and Analytics Engineering pathways
+
+Open To:
+  - Data Analyst roles and internships
+  - Collaborative analytics and open-source projects
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+*Data tells a story; my job is to make it clear, accurate, and actionable.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" width="100%" />
+
+</div>
